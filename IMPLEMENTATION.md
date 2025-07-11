@@ -8,7 +8,7 @@ The Python Programming Language -- Version 3.12.9 with
 - Scikit-Learn 1.5.2,
 - Wsingular 0.1.7,
 
-on an off-the-shelf MacBookPro 2020 with Intel Core i5 Chip (4‑Core CPU, 1.4 GHz) and 8~GB~RAM. 
+on an off-the-shelf MacBookPro 2020 with Intel Core i5 Chip (4‑Core CPU, 1.4 GHz) and 8 GB RAM. 
 
 # (Reduced) Single-CELL Dataset 
 
