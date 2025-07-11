@@ -4,13 +4,9 @@ This repository includes the numerical code for the experiments of the paper (Un
 The results are based on an unsupervised approach for OT metric learning proposed by Huizing, Cantini and Peyré (2022).
 It includes:
    	
-	- Wasserstein Eigenvaector computations, using normalization schemes
+	- Wasserstein Eigenvaector computations, using normalization schemes and Gauß-Seidl schemes,
     
-	- and Gauß-Seidl schemes,
-    
-	- Sinkhorn Eigenvector computations, using normalization schemes
-    
-	- and Gauß-Seidl schemes,
+	- Sinkhorn Eigenvector computations, using normalization schemes and Gauß-Seidl schemes,
     
 	- Mahalanobis-like distances (mainly focusing on normalization schemes),
     
